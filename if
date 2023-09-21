@@ -1,0 +1,23 @@
+hari_ini = "minggu"
+
+if(hari_ini == "senin"):
+    print("Saya Pergi Sekolah")
+elif(hari_ini == "selasa"):
+    print("saya Pergi Sekolah")
+elif(hari_ini == "rabu"):
+    print("saya Pergi Sekolah")
+elif(hari_ini == "kamis"):
+    print("saya Pergi Sekolah")
+elif(hari_ini == "jum'at"):
+    print("saya Pergi Sekolah")
+elif(hari_ini == "sabtu"):
+     print("saya libur Sekolah")
+elif(hari_ini == "minggu"):
+    print("saya libur Sekolah")
+
+
+    
+
+
+
+
