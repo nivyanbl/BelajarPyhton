@@ -1,0 +1,7 @@
+nama = input("")
+umur = input ("")
+zodiak = input("")
+alamat = input("")
+tanggal = input("")
+
+print("hallo nama saya",nama,"\n","saya berumur",umur,"\n","zodiak saya",zodiak,"\n","alamat saya di",alamat,"\n","tanggal lahir saya",tanggal,)
